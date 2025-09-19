@@ -21,4 +21,12 @@ Use case:
 2. Policy Updates – Personalized alerts on schemes and services.
 3. Public Participation – Smart polls & feedback for better decisions.
 
-   project 
+   Project:
+
+
+
+   Demo Video:
+        https://drive.google.com/file/d/1bW7WDP59K944pCICF2WVD_vuFZvlOjL4/view?usp=drivesdk
+
+
+     
